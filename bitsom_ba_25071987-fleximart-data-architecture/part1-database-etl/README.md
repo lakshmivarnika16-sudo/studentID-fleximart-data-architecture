@@ -88,4 +88,6 @@ Challenges Faced
 1-Handling data inconsistencies during ETL – Resolved by applying data validation and cleaning rules.
 2-Designing correct OLAP aggregations – Solved by using proper GROUP BY logic and window functions.
 
+Final review completed before submission.
+
 
