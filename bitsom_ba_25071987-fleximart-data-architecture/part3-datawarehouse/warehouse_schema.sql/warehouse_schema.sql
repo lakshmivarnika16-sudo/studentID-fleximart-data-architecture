@@ -1,3 +1,5 @@
+-- Star schema definition for FlexiMart data warehouse
+
 CREATE TABLE dim_date (
     date_key INT PRIMARY KEY,
     full_date DATE NOT NULL,
@@ -41,3 +43,4 @@ CREATE TABLE fact_sales (
     FOREIGN KEY (product_key) REFERENCES dim_product(product_key),
     FOREIGN KEY (customer_key) REFERENCES dim_customer(customer_key)
 );
+
