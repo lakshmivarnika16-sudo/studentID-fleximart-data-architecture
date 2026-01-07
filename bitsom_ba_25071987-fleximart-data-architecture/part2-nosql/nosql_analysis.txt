@@ -24,4 +24,6 @@ One major disadvantage of using MongoDB instead of MySQL is weaker relational in
 
 
 Another drawback is complex analytical querying. MongoDB is not as efficient as SQL databases for complex joins, aggregations, and reporting queries. Business intelligence tasks, financial reporting, and multi-table analytics are easier and more optimized in relational databases. Additionally, MongoDB requires careful schema design to avoid data duplication, which can increase storage usage.
-Conclusion: MongoDB is suitable for FlexiMart where flexible schemas, nested product reviews, and scalability are required.
+Conclusion: MongoDB is suitable for FlexiMart where flexible schemas, nested product reviews, and scalability are required.This analysis supports the use of MongoDB for scalable retail applications.
+
+
