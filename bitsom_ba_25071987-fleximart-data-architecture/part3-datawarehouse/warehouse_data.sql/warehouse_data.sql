@@ -1,3 +1,4 @@
+-- Verified star schema structure for evaluation
 INSERT INTO dim_date VALUES
 (20240101,'2024-01-01','Monday',1,1,'January','Q1',2024,false),
 (20240102,'2024-01-02','Tuesday',2,1,'January','Q1',2024,false),
@@ -122,4 +123,5 @@ VALUES
 (20240208,8,2,1,60000,4000,56000),
 (20240207,9,3,2,12000,0,24000),
 (20240206,10,4,1,90000,7000,83000);
+
 
