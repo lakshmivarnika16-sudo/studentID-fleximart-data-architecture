@@ -22,4 +22,6 @@ SECTION-C
 Trade-offs of Using MongoDB
 One major disadvantage of using MongoDB instead of MySQL is weaker relational integrity. MongoDB does not enforce foreign key constraints like relational databases. This means relationships between collections (such as products and orders) must be handled at the application level, increasing the risk of inconsistent or orphaned data if not managed carefully.
 
+
 Another drawback is complex analytical querying. MongoDB is not as efficient as SQL databases for complex joins, aggregations, and reporting queries. Business intelligence tasks, financial reporting, and multi-table analytics are easier and more optimized in relational databases. Additionally, MongoDB requires careful schema design to avoid data duplication, which can increase storage usage.
+Conclusion: MongoDB is suitable for FlexiMart where flexible schemas, nested product reviews, and scalability are required.
