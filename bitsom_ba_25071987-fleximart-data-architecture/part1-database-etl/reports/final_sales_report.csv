@@ -1,0 +1,41 @@
+transaction_id,customer_id,product_id,quantity,unit_price,transaction_date,status,product_name,category,price,stock_quantity,first_name,last_name,email,phone,city,registration_date
+T001,C001,P001,1,45999.0,2024-01-15,Completed,Samsung Galaxy S21,Electronics,45999.0,150.0,Rahul,Sharma,rahul.sharma@gmail.com,9876543210,Bangalore,2023-01-15
+T002,C002,P004,2,2999.0,2024-01-16,Completed,Levi's Jeans,Fashion,2999.0,120.0,Priya,Patel,priya.patel@yahoo.com,+91-9988776655,Mumbai,2023-02-20
+T003,C003,P007,1,52999.0,15/01/2024,Completed,HP Laptop,Electronics,52999.0,60.0,Amit,Kumar,,9765432109,Delhi,2023-03-10
+T004,,P002,1,3499.0,2024-01-18,Pending,Nike Running Shoes,fashion,3499.0,80.0,,,,,,
+T005,C005,P009,3,650.0,2024-01-20,Completed,Basmati Rice 5kg,groceries,650.0,300.0,Vikram,Singh,vikram.singh@outlook.com,09988112233,Chennai,2023-05-22
+T006,C006,P012,1,12999.0,01-22-2024,Completed,Dell Monitor 24inch,Electronics,12999.0,40.0,Anjali,Mehta,anjali.mehta@gmail.com,9876543210,Bangalore,2023-06-18
+T007,C007,P005,2,1999.0,2024-01-23,Completed,Sony Headphones,electronics,1999.0,200.0,Ravi,Verma,,+919876501234,Pune,2023-07-25
+T008,C008,,1,1299.0,2024-01-25,Completed,,,,,Pooja,Iyer,pooja.iyer@gmail.com,9123456780,Bangalore,08-15-2023
+T009,C009,P011,1,4599.0,2024-01-28,Cancelled,Puma Sneakers,Fashion,4599.0,70.0,Karthik,Nair,karthik.nair@yahoo.com,9988776644,Kochi,2023-09-30
+T010,C010,P006,5,899.0,2024-02-01,Completed,Organic Almonds,Groceries,899.0,,Deepa,Gupta,deepa.gupta@gmail.com,09871234567,Delhi,2023-10-12
+T011,C011,P014,1,69999.0,02/02/2024,Completed,iPhone 13,Electronics,69999.0,80.0,Arjun,Rao,arjun.rao@gmail.com,9876509876,Hyderabad,2023-11-05
+T012,C012,P003,1,52999.0,2024-02-05,Completed,Apple MacBook Pro,ELECTRONICS,,45.0,Lakshmi,Krishnan,,9988001122,Chennai,2023-12-01
+T013,C013,P015,3,450.0,2024-02-08,Completed,Organic Honey 500g,Groceries,450.0,200.0,Suresh,Patel,suresh.patel@outlook.com,9123409876,Mumbai,2024-01-08
+T014,C014,P019,2,1499.0,02-10-2024,Completed,Boat Earbuds,Electronics,1499.0,250.0,Neha,Shah,neha.shah@gmail.com,+91-9876543221,Ahmedabad,2024-01-15
+T015,C015,P008,3,1299.0,2024-02-12,Completed,Adidas T-Shirt,FASHION,1299.0,150.0,Manish,Joshi,manish.joshi@yahoo.com,9988776611,Jaipur,20/01/2024
+T016,,P013,1,5499.0,2024-02-15,Pending,Woodland Shoes,fashion,5499.0,55.0,,,,,,
+T017,C017,P016,1,32999.0,2024-02-18,Completed,Samsung TV 43inch,ELECTRONICS,32999.0,35.0,Rajesh,Kumar,rajesh.kumar@gmail.com,09876123450,Delhi,2024-02-12
+T018,C018,P020,2,1899.0,2024-02-20,Completed,Reebok Trackpants,FASHION,1899.0,110.0,Kavya,Reddy,,9988112200,Hyderabad,2024-02-18
+T019,C019,P018,10,120.0,02/22/2024,Completed,Masoor Dal 1kg,groceries,120.0,500.0,Arun,Pillai,arun.pillai@outlook.com,9876543298,Kochi,02-25-2024
+T020,C020,P010,1,45999.0,2024-02-25,Completed,OnePlus Nord,Electronics,,95.0,Swati,Desai,swati.desai@gmail.com,9123456712,Pune,2024-03-01
+T021,C021,P017,2,2999.0,2024-02-28,Completed,H&M Shirt,Fashion,,90.0,Nikhil,Bose,nikhil.bose@gmail.com,+919988776600,Kolkata,2024-03-10
+T022,C002,P001,1,45999.0,2024-03-01,Completed,Samsung Galaxy S21,Electronics,45999.0,150.0,Priya,Patel,priya.patel@yahoo.com,+91-9988776655,Mumbai,2023-02-20
+T023,C003,P019,3,1499.0,03-02-2024,Completed,Boat Earbuds,Electronics,1499.0,250.0,Amit,Kumar,,9765432109,Delhi,2023-03-10
+T024,C004,P009,5,650.0,2024-03-05,Completed,Basmati Rice 5kg,groceries,650.0,300.0,Sneha,Reddy,sneha.reddy@gmail.com,9123456789,Hyderabad,15/04/2023
+T025,C005,,1,1999.0,2024-03-08,Completed,,,,,Vikram,Singh,vikram.singh@outlook.com,09988112233,Chennai,2023-05-22
+T026,C006,P011,1,4599.0,2024-03-10,Completed,Puma Sneakers,Fashion,4599.0,70.0,Anjali,Mehta,anjali.mehta@gmail.com,9876543210,Bangalore,2023-06-18
+T027,C007,P002,2,3499.0,03/12/2024,Completed,Nike Running Shoes,fashion,3499.0,80.0,Ravi,Verma,,+919876501234,Pune,2023-07-25
+T028,C008,P015,4,450.0,2024-03-15,Completed,Organic Honey 500g,Groceries,450.0,200.0,Pooja,Iyer,pooja.iyer@gmail.com,9123456780,Bangalore,08-15-2023
+T029,C009,P007,1,52999.0,2024-03-18,Completed,HP Laptop,Electronics,52999.0,60.0,Karthik,Nair,karthik.nair@yahoo.com,9988776644,Kochi,2023-09-30
+T030,,P004,3,2999.0,2024-03-20,Pending,Levi's Jeans,Fashion,2999.0,120.0,,,,,,
+T031,C011,P012,1,12999.0,03-22-2024,Completed,Dell Monitor 24inch,Electronics,12999.0,40.0,Arjun,Rao,arjun.rao@gmail.com,9876509876,Hyderabad,2023-11-05
+T032,C012,P016,1,32999.0,2024-03-25,Completed,Samsung TV 43inch,ELECTRONICS,32999.0,35.0,Lakshmi,Krishnan,,9988001122,Chennai,2023-12-01
+T033,C013,P005,2,1999.0,2024-03-28,Completed,Sony Headphones,electronics,1999.0,200.0,Suresh,Patel,suresh.patel@outlook.com,9123409876,Mumbai,2024-01-08
+T034,C014,P008,2,1299.0,2024-03-30,Completed,Adidas T-Shirt,FASHION,1299.0,150.0,Neha,Shah,neha.shah@gmail.com,+91-9876543221,Ahmedabad,2024-01-15
+T035,C015,P018,8,120.0,04/01/2024,Completed,Masoor Dal 1kg,groceries,120.0,500.0,Manish,Joshi,manish.joshi@yahoo.com,9988776611,Jaipur,20/01/2024
+T036,C016,P014,1,69999.0,2024-04-03,Completed,iPhone 13,Electronics,69999.0,80.0,Divya,Menon,divya.menon@gmail.com,9123456701,Bangalore,2024-02-05
+T037,C017,P006,4,899.0,2024-04-05,Completed,Organic Almonds,Groceries,899.0,,Rajesh,Kumar,rajesh.kumar@gmail.com,09876123450,Delhi,2024-02-12
+T038,C018,P020,1,1899.0,04-08-2024,Completed,Reebok Trackpants,FASHION,1899.0,110.0,Kavya,Reddy,,9988112200,Hyderabad,2024-02-18
+T039,C019,P019,2,1499.0,2024-04-10,Completed,Boat Earbuds,Electronics,1499.0,250.0,Arun,Pillai,arun.pillai@outlook.com,9876543298,Kochi,02-25-2024
+T040,C020,P013,1,5499.0,2024-04-12,Completed,Woodland Shoes,fashion,5499.0,55.0,Swati,Desai,swati.desai@gmail.com,9123456712,Pune,2024-03-01
