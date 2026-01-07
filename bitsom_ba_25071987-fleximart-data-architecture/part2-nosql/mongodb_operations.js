@@ -2,6 +2,7 @@
  Task 2.2: MongoDB Implementation – FlexiMart
  Database: fleximart_nosql
  Collection: products
+ //includes insert,find,update,and aggregation examples
 ****************************************************/
 
 /*
@@ -124,3 +125,4 @@ db.products.aggregate([
     $sort: { avg_price: -1 }
   }
 ]);
+
